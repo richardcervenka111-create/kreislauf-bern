@@ -4,7 +4,7 @@ Give-Boxen, Foodsharing, Brockenhäuser, Secondhand und Kleidersammlungen stehen
 
 Live: **https://richardcervenka111-create.github.io/kreislauf-bern/**
 
-Drei Sprachen (DE/EN/SK), „nächster Punkt“ mit Fussroute, kein Tracking, Standort bleibt im Gerät.
+Zwei Sprachen (DE/EN), „nächster Punkt“ mit Fussroute, kein Tracking, Standort bleibt im Gerät.
 
 ## Daten
 
